@@ -37,3 +37,11 @@ p{
     border-radius: 15px;
     margin-right: 10px;
 }
+@media (max-width: 600px) { 
+    .container2{
+        flex-direction: column;
+    }
+    .card{
+        margin-bottom: 10px;
+    }
+ }
